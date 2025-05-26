@@ -10,7 +10,6 @@ This project involves cleaning and preprocessing the Netflix Movies and TV Shows
 5. Renamed column headers (lowercase, snake_case)
 6. Checked and fixed data types
 7. Saved cleaned data as Excel and CSV
-8. Generated a summary of cleaned data
 
 ## 🧾 Files Included
 - `netflix_cleaned.xlsx`: Cleaned dataset
